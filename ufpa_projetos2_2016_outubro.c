@@ -55,11 +55,13 @@ int main() {
 
   	puts("201606840046 - Nicole Dinah Lima Silva -http://lattes.cnpq.br/0289801376021584 \n");
 	puts("TULIP.");
-
+	     
   	puts("201606840014 - Gustavo Moraes Vasconcelos - http://lattes.cnpq.br/6742625161066668 \n");
 	puts("Meu mantra: Tudo posso Naquele que me fortalece.");
 
 	puts("201606840035 - Moisés Lobato Queiroz - http://lattes.cnpq.br/1059234636615212");
 	puts("Meu mantra: Nenhum sucesso na vida compensa o fracasso no lar.\n");     
-
+	
+	puts("201606840052 - Marco Antonio Valino Lima -  http://lattes.cnpq.br/8429519306432424 \n");
+	puts("Meu mantra: Ninguém é um fracasso se tiver amigos. \n");
 }
